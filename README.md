@@ -1,16 +1,10 @@
-# Status
-[![Build status](https://ci.appveyor.com/api/projects/status/blacq5907mnj5aub/branch/master?svg=true)](https://ci.appveyor.com/project/alexandrudanpop/estateswebapi/branch/master)
+# Requirement
+Dotnet core version: 2.0+
 
-# Playing around with dotnet core
-You will need dotnet core version: 2.0
-
-# Commands
+# How to
 Navigate to the src/api folder 
 1) dotnet restore (restore nugets)
 2) dotnet watch run (hot reload while making changes to the projects)
 
-# Read more
-http://www.control-f5.com/
-
-# Also check out the react web app that consumes this api:
-https://github.com/alexandrudanpop/EstatesWebApp
+# Check the repository which uses this api:
+https://github.com/smaster0517/RealEstateWebsite
